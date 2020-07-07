@@ -1,4 +1,4 @@
-# Thylacine's revenge (3.19.1)
+# Thylacine's revenge (3.19.1) xxx
 
 Our upcoming 3.20.0 release is planned for July 7th, 2020, but we are once again releasing a minor version featuring some nice bug fixes and usability improvements which are ready to be deployed now. In case you missed [our announcement](https://social.weho.st/@cryptpad/104360490068671089) we are phasing out our usage of the `master` and basing our releases on the `main` branch. For best results we recommend explicitly checking out code by its tag.
 
